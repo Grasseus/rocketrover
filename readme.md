@@ -65,7 +65,7 @@ This ensures your environment has the correct versions of all dependencies.
 
 ## Usage
 
-After installing the dependencies, you can run the main application script:
+After installing the dependencies, you can run the main application script. It initializes the rover object and starts a WebSocket server on port 8080. To run the main application script, execute the following command:
 
 ```bash
 python main.py
